@@ -1,0 +1,1 @@
+nome = input("Fala Gui se vc chama GUI")
